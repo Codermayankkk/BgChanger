@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [color, setColor] = useState("#000080")
+  const [color, setColor] = useState("#4169E1")
 
   return (
     <div className="w-full h-screen duration-200" style={{backgroundColor: color}}>

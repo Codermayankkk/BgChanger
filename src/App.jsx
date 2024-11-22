@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="w-full h-screen duration-200" style={{backgroundColor: color}}>
-      <h1>Mayank Matkar, The Pro Developer</h1>
+      <h1 className="font-extrabold">Mayank Matkar, The Pro Developer</h1>
       <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
              <div className="flex flex-wrap justify-center gap-3 shadow-lg bg-white px-3 py-2">
                   <button className="outline-none px-4 rounded-full text-white" 
